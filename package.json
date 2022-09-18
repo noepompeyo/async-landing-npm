@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noepompeyo/async-landing-npm.git"
+  },
+  "keywords": [],
+  "author": "Noe Pompeyo <pompeyonoe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noepompeyo/async-landing-npm/issues"
+  },
+  "homepage": "https://github.com/noepompeyo/async-landing-npm#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
